@@ -3,14 +3,14 @@
 
 This repository provides a comprehensive suite of bioinformatics pipelines tailored for various high-throughput sequencing data types. The goal of this project is to serve as an educational resource for a course that covers the following data types and methodologies:
 
-- RNA-seq: Class 1 and 2
-- ATAC-seq: Class 3
-- Single-cell sequencing: Class 4 and 5
-- Integrative analysis: Class 6 
-- DNA methylation analysis: Class 7
-- Final Project: Spatial Transcriptomics 
+- RNA-seq: Week 1 and 2
+- ATAC-seq: Week 3
+- Single-cell sequencing: Week 4 and 5
+- Integrative analysis: Week 6 
+- DNA methylation analysis: Week 7
+- Spatial Transcriptomics : Final Project
 
-Each directory within this repository contains the educational resources and exercises from each class (numbered), including scripts, workflows, datasets, figures, etc.
+Each directory within this repository contains the educational resources and exercises from each class (a.k.a week), including scripts, workflows, datasets, figures, etc.
 
 The Group presentations folders contain slides of presentations in class describing specific pipelines, workflows, tools, or technical concepts. 
 

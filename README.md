@@ -12,6 +12,8 @@ This repository provides a comprehensive suite of bioinformatics pipelines tailo
 
 Each directory within this repository contains the educational resources and exercises from each class (a.k.a week), including scripts, workflows, datasets, figures, etc.
 
+For class 4 activities (week 4), please refer to: https://github.com/kcardonal/dea_seurat_Group2, which is forked from roblehmann/dea_seurat. 
+
 The Group presentations folders contain slides of presentations in class describing specific pipelines, workflows, tools, or technical concepts. 
 
 ## Course Content

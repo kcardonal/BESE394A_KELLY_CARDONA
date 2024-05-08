@@ -16,6 +16,17 @@ For class 4 activities (week 4), please refer to: https://github.com/kcardonal/d
 
 The Group presentations folders contain slides of presentations in class describing specific pipelines, workflows, tools, or technical concepts. 
 
+## Directory structure
+- [For class 1 activities:] (/Individual_Exercises_week1)
+- [For class 2 activities:] (/Individual_Exercises_week2)
+- For class 3 activities: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/Neutrophil_analysis_Exercise_week3
+- For class 4 activities: https://github.com/kcardonal/dea_seurat_Group2
+- For class 5 activities: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/Multiome_Exercise_week5
+- For class 6 activities: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/Integration_Excercises_week6
+- For class 7 activities: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/DNA_Methylation_Exercises_week7
+- For group presentations: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/Group_Presentations
+- For final project: https://github.com/kcardonal/BESE394A_Kelly_Cardona/tree/main/Final_Project
+
 ## Course Content
 *RNA-seq*
 1. Quality control and preprocessing of count data
